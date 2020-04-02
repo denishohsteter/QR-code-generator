@@ -1,0 +1,3 @@
+ThoughtWorks.QRCode
+
+https://www.codeproject.com/Articles/20574/Open-Source-QRCode-Library
